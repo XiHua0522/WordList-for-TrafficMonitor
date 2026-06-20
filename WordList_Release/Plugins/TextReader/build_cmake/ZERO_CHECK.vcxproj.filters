@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\code\TrafficMonitorPlugins-TextReader_V1.02\Plugins\TextReader\build_cmake\CMakeFiles\26af856eb88d3c5e4452b328396f8f8e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{24BBBB4C-C384-30CB-8BA5-57034A64A7EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

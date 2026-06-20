@@ -1,0 +1,3 @@
+D:/code/TrafficMonitorPlugins-TextReader_V1.02/Plugins/TextReader/build_cmake/CMakeFiles/TextReader.dir
+D:/code/TrafficMonitorPlugins-TextReader_V1.02/Plugins/TextReader/build_cmake/CMakeFiles/ALL_BUILD.dir
+D:/code/TrafficMonitorPlugins-TextReader_V1.02/Plugins/TextReader/build_cmake/CMakeFiles/ZERO_CHECK.dir
