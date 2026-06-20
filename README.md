@@ -73,10 +73,12 @@
 
 ---
 
-~~## 编译环境~~
+## ~~编译环境~~~
 
 ~~- Visual Studio 2022~~
+
 ~~- MFC / C++~~
+
 ~~- Windows SDK 10.0~~
 
 ~~用 VS2022 打开 `TrafficMonitorPlugins.sln`，编译 `TextReader`（输出文件名为 `WordList.dll`）即可。~~
