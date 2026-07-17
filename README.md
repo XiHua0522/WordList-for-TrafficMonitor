@@ -3,7 +3,8 @@
 一个基于 [TextReader](https://github.com/zhongyang219/TrafficMonitorPlugins/releases/tag/TextReader_V1.02) 修改而来的 TrafficMonitor 插件，增加**查看单词/发音**功能。
 
 > **⚠️ 声明**： <br>
-> 本人没有任何编程基础，本项目代码均由 AI 修改完成。~~后续大概率不会有任何更新或 Bug 修复，请见谅。如果发现问题，建议自行 fork 后修改，或寻找其他替代方案。~~
+> 本人没有任何编程基础，本项目代码均由 AI 修改完成。 <br>
+~~后续大概率不会有任何更新或 Bug 修复，请见谅。如果发现问题，建议自行 fork 后修改，或寻找其他替代方案。~~ <br>
 我是🐷B,不会用git，结果把代码全部整没了 <br>
 > 仅测试过日语词汇，其他语言未测试
 
